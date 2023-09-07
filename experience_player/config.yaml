@@ -1,0 +1,5 @@
+action_map: /home/xaxi/PycharmProjects/experience-trainer/maps/map
+task_configuration: /home/xaxi/PycharmProjects/experience-recorder/conf/tasks/2048.yaml
+checkpoint_path: /home/xaxi/PycharmProjects/experience-trainer/models/checkpoints/ActorCriticModel/ActorCriticModel-v3.ckpt
+
+rolling: 5
